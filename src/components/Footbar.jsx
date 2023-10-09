@@ -53,13 +53,13 @@ const Footbar = () => {
               <Link onClick={() => handleLinkClick("https://twitter.com/skilvul")}>
                 <BsTwitter size={40} color="black" />
               </Link>
-              <Link onClick={() => handleLinkClick("https://www.facebook.com/skilvul")}>
+              <Link onClick={() => handleLinkClick("https://www.facebook.com/DKIJakarta")}>
                 <BsFacebook size={40} color="black" />
               </Link>
-              <Link onClick={() => handleLinkClick("https://www.instagram.com/skilvul/")}>
+              <Link onClick={() => handleLinkClick("https://www.instagram.com/dkijakarta/")}>
                 <BsInstagram size={40} color="black" />
               </Link>
-              <Link onClick={() => handleLinkClick("https://www.youtube.com/skilvul")}>
+              <Link onClick={() => handleLinkClick("https://www.youtube.com/DKIJakarta")}>
                 <BsYoutube size={40} color="black" />
               </Link>
             </div>
