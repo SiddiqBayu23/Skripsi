@@ -50,7 +50,7 @@ const Footbar = () => {
           <Col md={4} className="mb-md-0 mb-3 p-3">
             <h3 className="text-uppercase fs-2 fw-medium text-dark text-center">ikuti kami</h3>
             <div className="mt-5  d-flex justify-content-center align-items-center gap-5 p-3">
-              <Link onClick={() => handleLinkClick("https://twitter.com/skilvul")}>
+              <Link onClick={() => handleLinkClick("https://twitter.com/DKIJakarta")}>
                 <BsTwitter size={40} color="black" />
               </Link>
               <Link onClick={() => handleLinkClick("https://www.facebook.com/DKIJakarta")}>
