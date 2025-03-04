@@ -9,21 +9,21 @@ import DaurUlang from "../components/DaurUlang";
 function Anorganik(){
 
   const[banner, setBanner] = useState({
-    gambar: "https://i.ibb.co/N7kh3wD/anorganik.png", 
+    gambar: "https://i.ibb.co.com/N7kh3wD/anorganik.png", 
     judul: "Sampah Anorganik", 
     deskripsi: "Sampah anorganik adalah sampah yang dihasilkan dari bahan-bahan non-hayati, baik berupa produk sintetik maupun hasil proses teknologi pengolahan bahan tambang sumber daya alam dan sulit diuraikan oleh alam.",
   })
 
   const[anorganik, setAnorganik] = useState([
-    {id:1, name:"Botol Plastik", img: "https://i.ibb.co/9t2NRbs/botolpl.png"},
-    {id:2, name:"Botol Kaca", img: "https://i.ibb.co/nfGd9Sq/kaca.png"},
-    {id:3, name:"Kain", img: "https://i.ibb.co/yk3HF0X/kain.png"},
-    {id:4, name:"Botol Kaleng", img: "https://i.ibb.co/Bwb2kk9/kaleng.png"},
-    {id:5, name:"Keramik", img: "https://i.ibb.co/1d9RDtw/keramik.png"},
-    {id:6, name:"Kertas", img: "https://i.ibb.co/m4F7Q7W/kertas.png"},
-    {id:7, name:"Logam", img: "https://i.ibb.co/t37F2kq/logam.png"},
-    {id:8, name:"Plastik", img: "https://i.ibb.co/0qtxbGh/plastik.png"},
-    {id:9, name:"Styrofoam", img: "https://i.ibb.co/Jkwm90y/styrofoam.png"}
+    {id:1, name:"Botol Plastik", img: "https://i.ibb.co.com/DfWZ2CbJ/egyavbjhn01qnjipjhvn.jpg"},
+    {id:2, name:"Botol Kaca", img: "https://i.ibb.co.com/vxmz6mfK/istockphoto-1445743631-170667a.jpg"},
+    {id:3, name:"Kain", img: "https://i.ibb.co.com/M0gr13M/1715761246541.jpg"},
+    {id:4, name:"Botol Kaleng", img: ""},
+    {id:5, name:"Keramik", img: ""},
+    {id:6, name:"Kertas", img: ""},
+    {id:7, name:"Logam", img: ""},
+    {id:8, name:"Plastik", img: ""},
+    {id:9, name:"Styrofoam", img: ""}
   ])
 
   const[daurulg, setDaurulg] = useState([

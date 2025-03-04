@@ -48,7 +48,7 @@ function NavComponent() {
     <Navbar sticky="top" className="bg-custom " expand="md" variant="dark">
       <Container>
         <Navbar.Brand className="d-flex align-items-center" as={NavLink} to="/">
-          <Image src="https://i.ibb.co/gwHhDPb/11zon-cropped-1.png" width={50} className="me-2" />
+          <Image src="https://i.ibb.co.com/gwHhDPb/11zon-cropped-1.png" width={50} className="me-2" />
           <h1 className="mb-0">Tracle.</h1>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

@@ -23,7 +23,7 @@ const Footbar = () => {
         <Row>
           <Col md={5} className="mt-md-0 p-3 d-flex flex-column align-items-center text-dark ">
             <h1>TRACLE.</h1>
-            <Image fluid src="https://i.ibb.co/gwHhDPb/11zon-cropped-1.png" width={150} />
+            <Image fluid src="https://i.ibb.co.com/gwHhDPb/11zon-cropped-1.png" width={150} />
           </Col>
 
           <Col md={3} className="mb-md-0 mb-3  p-3">

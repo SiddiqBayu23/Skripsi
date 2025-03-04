@@ -7,7 +7,7 @@ import Card2 from '../components/Card2';
 function B3(){
 
   const[banner, setBanner] = useState({
-    gambar: "https://i.ibb.co/vYm9NKs/radioaktif.png", 
+    gambar: "https://i.ibb.co.com/vYm9NKs/radioaktif.png", 
     judul: "Sampah B3 (Bahan Berbahaya dan Beracun", 
     deskripsi: "Bahan Berbahaya dan Beracun atau sering disingkat dengan B3 adalah zat, energi, dan/atau komponen lain yang karena sifat, konsentrasi dan/atau jumlahnya baik secara langsung maupun tidak langsung dapat mencemarkan dan/atau merusak lingkungan hidup, membahayakan lingkungan hidup, kesehatan serta kelangsungan hidup manusia dan makhluk hidup lain.",
   })
@@ -55,7 +55,7 @@ function B3(){
                   Jika tercampur, maka sampah/limbah domestik yang telah terkontaminasi B3 harus dikategorikan sebagai limbah B3.
                   Setelah dipilah, limbah B3 akan ditempatkan di TPS (tempat penyimpanan sementara) limbah B3 milik penghasil limbah. TPS ini wajib memenuhi persyaratan teknis dan mendapatkan persetujuan lingkungan.</p>
               <Container className="text-center">
-                <img src="https://i.ibb.co/bJVh0RK/alur.jpg" alt="" className="img-fluid rounded-3 mt-3" width="1000px" height="950px"/>
+                <img src="https://i.ibb.co.com/DPsnhTYX/cartnew3.jpg" alt="" className="img-fluid rounded-3 mt-3" width="1000px" height="950px"/>
               </Container>
             </div>
           <div className='p-4'></div>

@@ -7,9 +7,9 @@ import HeroBannerSlider from '../components/HeroBannerSlider';
 function Kategori() {
 
   const[kat, setKat] = useState([
-    {id:1, ktg:"Organik", image: "https://i.ibb.co/LJjsP1k/organik3-removebg-preview.png", link: "/kategori/organik"},
-    {id:2, ktg:"Anorganik", image: "https://i.ibb.co/N7kh3wD/anorganik.png", link: "/kategori/anorganik"},
-    {id:3, ktg:"B3", image: "https://i.ibb.co/vYm9NKs/radioaktif.png", link: "/kategori/b3"}
+    {id:1, ktg:"Organik", image: "https://i.ibb.co.com/LJjsP1k/organik3-removebg-preview.png", link: "/kategori/organik"},
+    {id:2, ktg:"Anorganik", image: "https://i.ibb.co.com/N7kh3wD/anorganik.png", link: "/kategori/anorganik"},
+    {id:3, ktg:"B3", image: "https://i.ibb.co.com/vYm9NKs/radioaktif.png", link: "/kategori/b3"}
   ])
 
   return (
@@ -41,7 +41,7 @@ function Kategori() {
           <h2 className="text-center py-5">FOR YOUR INFORMATION</h2>
           <Row className="align-items-center pb-5">
             <Col className="sm-4">
-              <img src="https://i.ibb.co/PG4Pbp5/fyi.png" className="rounded-3" width="450px" height="250px"/>
+              <img src="https://i.ibb.co.com/sdPrX1sP/fyi.png" className="rounded-3" width="450px" height="250px"/>
             </Col>
             <Col className="sm-8">
               <h3><strong>Tahukah <span className="text-success">Kamu?</span></strong></h3>

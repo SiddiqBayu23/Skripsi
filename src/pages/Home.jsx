@@ -58,7 +58,7 @@ function Home() {
             </div>
             <div className="col-lg-5 d-flex justify-content-center">
               <img
-                src="https://i.ibb.co/gwHhDPb/11zon-cropped-1.png"
+                src="https://i.ibb.co.com/gwHhDPb/11zon-cropped-1.png"
                 className="mb-3"
                 width="300px"
                 height="300px"
@@ -80,7 +80,7 @@ function Home() {
               <div className="card rounded-2">
                 <img
                   className="card-img-top"
-                  src="https://i.ibb.co/LJjsP1k/organik3-removebg-preview.png"
+                  src="https://i.ibb.co.com/LJjsP1k/organik3-removebg-preview.png"
                   alt="Card image cap"
                   width="350px"
                   height="350px"
@@ -98,7 +98,7 @@ function Home() {
               <div className="card rounded-2">
                 <img
                   className="card-img-top"
-                  src="https://i.ibb.co/N7kh3wD/anorganik.png"
+                  src="https://i.ibb.co.com/N7kh3wD/anorganik.png"
                   alt="Card image cap"
                   width="350px"
                   height="350px"
@@ -116,7 +116,7 @@ function Home() {
               <div className="card rounded-2">
                 <img
                   className="card-img-top"
-                  src="https://i.ibb.co/vYm9NKs/radioaktif.png"
+                  src="https://i.ibb.co.com/vYm9NKs/radioaktif.png"
                   alt="Card image cap"
                   width="350px"
                   height="350px"
@@ -160,7 +160,7 @@ function Home() {
               >
                 <div className="card-body bg-warna1 py-3 ffg1">
                   <img
-                    src="https://i.ibb.co/p1GnZgQ/recycle.png"
+                    src="https://i.ibb.co.com/p1GnZgQ/recycle.png"
                     className="mb-3"
                     width="73px"
                     height="73px"
@@ -177,7 +177,7 @@ function Home() {
               >
                 <div className="card-body bg-warna4 py-3 ffg2">
                   <img
-                    src="https://i.ibb.co/ZXF5xct/energy.png "
+                    src="https://i.ibb.co.com/ZXF5xct/energy.png"
                     className="mb-3"
                     width="70px"
                     height="70px"
@@ -191,7 +191,7 @@ function Home() {
               <div className="card h-100" onClick={handleToggleText}>
                 <div className="card-body bg-warna3 py-3 ffg3">
                   <img
-                    src="https://i.ibb.co/6B7tByN/education.png "
+                    src="https://i.ibb.co.com/6B7tByN/education.png"
                     className="mb-3"
                     width="70px"
                     height="70px"
@@ -213,7 +213,7 @@ function Home() {
                       <div className="row">
                         <div className="col-md-6">
                           <img
-                            src="https://i.ibb.co/v3gDWrZ/Whats-App-Image-2023-06-14-at-16-45-52.jpg"
+                            src="https://i.ibb.co.com/v3gDWrZ/Whats-App-Image-2023-06-14-at-16-45-52.jpg"
                             alt="Gambar"
                             className="img-fluid"
                             style={{ width: '150px', height: '150px' }}
@@ -245,7 +245,7 @@ function Home() {
                       <div className="row">
                         <div className="col-md-6">
                           <img
-                            src="https://i.ibb.co/T1prhKG/Whats-App-Image-2023-06-14-at-16-45-15.jpg"
+                            src="https://i.ibb.co.com/T1prhKG/Whats-App-Image-2023-06-14-at-16-45-15.jpg"
                             alt="Gambar"
                             className="img-fluid"
                             style={{ width: '150px', height: '150px' }}
@@ -277,7 +277,7 @@ function Home() {
                       <div className="row">
                         <div className="col-md-6">
                           <img
-                            src="https://i.ibb.co/0K70X0C/Whats-App-Image-2023-06-14-at-16-44-19.jpg"
+                            src="https://i.ibb.co.com/0K70X0C/Whats-App-Image-2023-06-14-at-16-44-19.jpg"
                             alt="Gambar"
                             className="img-fluid"
                             style={{ width: '150px', height: '150px' }}
@@ -309,7 +309,7 @@ function Home() {
                 Fun<span> Fact</span>
                 <br />
                 <img
-                  src="https://i.ibb.co/93zFQRg/thinkingremovebgpreview-1-2x.png"
+                  src="https://i.ibb.co.com/93zFQRg/thinkingremovebgpreview-1-2x.png"
                   width="80px"
                   height="80px"
                   alt=""
