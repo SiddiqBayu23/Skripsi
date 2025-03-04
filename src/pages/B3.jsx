@@ -13,12 +13,12 @@ function B3(){
   })
 
   const[b3, setB3] = useState([
-    {id:1, name:"Baterai", img: "https://i.ibb.co/bJVh0RK/alur.jpg"},
-    {id:2, name:"Sampah Elektronik", img: "https://i.ibb.co/FBJ3wQP/elektronik.png"},
-    {id:3, name:"Sampah Kosmetik", img: "https://i.ibb.co/hLLyGNk/kosmetik.png"},
-    {id:4, name:"Lampu", img: "https://i.ibb.co/zX93Lq5/lampu.png"},
-    {id:5, name:"Sampah Medis", img: "https://i.ibb.co/nLGNs1N/medis.png"},
-    {id:6, name:"Obat Kadaluarsa", img: "https://i.ibb.co/6vYPr3h/obat.png"}
+    {id:1, name:"Baterai", img: "https://i.ibb.co.com/Y4pFzBx0/baterai-2.jpg"},
+    {id:2, name:"Sampah Elektronik", img: "https://i.ibb.co.com/TMfDJL3f/ufav41lrao08zf4.jpg"},
+    {id:3, name:"Sampah Kosmetik", img: "https://i.ibb.co.com/XrjD1ptc/kosmetik.webp"},
+    {id:4, name:"Lampu", img: "https://i.ibb.co.com/1YfHZhQx/shutterstock-1736912819-1170x878.jpg"},
+    {id:5, name:"Sampah Medis", img: "https://i.ibb.co.com/Hp1hZmjx/c5z5n73vvuu8f0d.jpg"},
+    {id:6, name:"Obat Kadaluarsa", img: "https://i.ibb.co.com/Hp1hZmjx/c5z5n73vvuu8f0d.jpg"}
   ])
   
   return(
